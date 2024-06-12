@@ -1,0 +1,8 @@
+Link video demo:
+Kịch bản 1- Thu thập, chuẩn hóa log:        https://youtu.be/8MQq0BTa_WI
+Kịch bản 2 - Quản lý, filter log:           https://youtu.be/3QRpU0bqWW0
+Kịch bản 3 - Tạo dashboard để theo dõi log: https://youtu.be/VzFLFbRIsF8
+Kịch bản 4 - Machine Learning:              https://youtu.be/pb_XJ8hda7c
+Kịch bản 5 - Kibana Alert                   https://youtu.be/jzX0fVp_uGo
+Kịch bản 6 - Security Alert                 https://youtu.be/2U_ZrNrSfvE
+Kịch bản 7 - Tấn công Web phức tạp          https://youtu.be/KUrQ--aH0nE
